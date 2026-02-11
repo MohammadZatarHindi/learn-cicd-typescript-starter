@@ -1,4 +1,3 @@
-#![code coverage badge](https://github.com/YOUR_NAMESPACE/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 ![CI Tests](https://github.com/MohammadZatarHindi/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadZatarHindi/learn-cicd-typescript-starter/actions/workflows/ci.yml)
 
 # learn-cicd-typescript-starter (Notely)
